@@ -1,0 +1,23 @@
+{
+  "name": "enabot",
+  "version": "1.0.0",
+  "description": "enation chatbot demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tamil1809/eNaBot.git"
+  },
+  "author": "Tamilan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tamil1809/eNaBot/issues"
+  },
+  "homepage": "https://github.com/tamil1809/eNaBot#readme",
+  "dependencies": {
+    "botbuilder": "^3.9.1",
+    "restify": "^6.0.1"
+  }
+}
